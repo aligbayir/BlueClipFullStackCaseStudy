@@ -1,3 +1,10 @@
+
+<img width="1080" height="2280" alt="Screenshot_20260109_012805" src="https://github.com/user-attachments/assets/89f4f784-af3b-4c66-8ffd-1c62a866e3e3" />
+<img width="1080" height="2280" alt="Screenshot_20260109_012753" src="https://github.com/user-attachments/assets/52d962eb-174f-4201-b779-e9287209972d" />
+<img width="1080" height="2280" alt="Screenshot_20260109_012743" src="https://github.com/user-attachments/assets/0e7bfdff-0c44-4ee7-bfd8-1cf51b332063" />
+<img width="1080" height="2280" alt="Screenshot_20260109_012812" src="https://github.com/user-attachments/assets/0e28bdc0-7826-42d4-aa10-386a592c78e3" />
+
+
 # Bildirim Merkezi (Notification Center) Projesi
 
 Bu repo, tam kapsamlı bir bildirim sistemi çözümünü içeren **Backend** ve **Mobile** projelerini barındırır.
