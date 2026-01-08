@@ -1,0 +1,37 @@
+# General
+node_modules/
+.DS_Store
+thumbs.db
+*.log
+
+# Environment Variables
+.env
+.env.*
+!*.example
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build Outputs
+dist/
+build/
+out/
+coverage/
+
+# Mobile Specific (Global Ignore)
+*.jks
+*.keystore
+google-services.json
+GoogleService-Info.plist
+/mobile/android/
+/mobile/ios/
+
+# Backend Specific
+/backend/dist/
