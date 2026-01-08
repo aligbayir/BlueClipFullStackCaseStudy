@@ -3,7 +3,7 @@
   <tr>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/0e7bfdff-0c44-4ee7-bfd8-1cf51b332063" width="200pt" /><br />
-      <sub><b>Giriş Ekranı</b></sub>
+      <sub><b>Push Bildirim</b></sub>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/52d962eb-174f-4201-b779-e9287209972d" width="200pt" /><br />
@@ -15,7 +15,7 @@
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/0e28bdc0-7826-42d4-aa10-386a592c78e3" width="200pt" /><br />
-      <sub><b>Push Bildirim</b></sub>
+      <sub><b>Giriş Ekranı</b></sub>
     </td>
   </tr>
 </table>
